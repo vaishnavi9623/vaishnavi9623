@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with expertise 
 - Building innovative solutions in various domains like education, insurance, and rentals.
 
 ## 📫 How to reach me...
-- Email: vaishnavi@example.com
+- Email: contactvaishnavi14@gmail.com
 - LinkedIn: [Vaishnavi Badabe](https://www.linkedin.com/in/vaishnavi-badabe-71a474236/)
 
 ## 😄 Pronouns: She/Her
